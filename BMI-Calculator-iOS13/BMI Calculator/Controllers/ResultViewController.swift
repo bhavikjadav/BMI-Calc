@@ -23,7 +23,7 @@ class ResultViewController: UIViewController {
         bmilabel.text = bmiValue
         adviceLabel.text = advise
         view.backgroundColor = color
-        // Adding the comment for check sourcetree.
+        // testing again.
     }
     
     @IBAction func recalculatePressed(_ sender: UIButton) {
